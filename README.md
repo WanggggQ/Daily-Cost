@@ -1,6 +1,6 @@
 # Daily-Cost
 A personal accounting application developed based on Android Studio.
-Project description: 
+###Project description: 
 A personal accounting tool developed based on the basic knowledge of Android, which includes recording the income and expenditure of the day, and calculating the total amount of income and expenditure of the day and the month. 
 It can view historical bills, perform chart and percentage analysis of monthly income and expenditure, and search for all income and expenditure of a certain record of users... Basically, it can solve most problems of personal accounting, the interface is simple and beautiful, and very easy to use.
 Important technical points of the project:
