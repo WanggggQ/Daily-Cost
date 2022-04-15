@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Daily Cost</string>
+    <string name="editone">Add...</string>
+    <string name="month_out">Expense this month</string>
+    <string name="out">expense</string>
+    <string name="month_in">Income this month</string>
+    <string name="in">income</string>
+    <string name="budget">budget surplus</string>
+    <string name="set_budget">setting budget</string>
+    <string name="see_excel">chart analysis</string>
+    <string name="add_remark">add notes</string>
+    <string name="remark">note</string>
+    <string name="ensure">confirm</string>
+    <string name="cancel">cancel</string>
+    <string name="about">about</string>
+    <string name="setting">setting</string>
+    <string name="history_record">bill record</string>
+    <string name="account_info">bill details</string>
+    <string name="please_input_time">Please enter the time (24 hour format)</string>
+    <string name="please_search_info">Please enter search information</string>
+    <string name="date_empty">No data</string>
+    <string name="chart_info">Bill details</string>
+
+    <string name="about_appinfo">App Information</string>
+    <string name="about_version">Version</string>
+    <string name="about_1">1.0</string>
+
+
+    <string name="about_developer">Developer</string>
+
+    <string name="about_email2">E-mail:2018152495@qq.com,If you have any questions, please contact me!</string>
+
+
+
+    <string name="history_info">This month billing record</string>
+    <string name="clear_all">Clear all records</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="not_data">No data</string>
+</resources>
