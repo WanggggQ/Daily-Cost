@@ -10,7 +10,7 @@ It can view historical bills, show chart and percentage analysis of monthly inco
 4. Custom dialog
 5. Customize the soft keyboard
 6. Use of adapters for list view and grid view, page loading
-7 .Use SQLite database and do CRUD
+7. Use SQLite database and do CRUD
 8. Define the drawable file, set the layout and control style
-9 .Use the MPAndroidChart framework to draw a bar chart
+9. Use the MPAndroidChart framework to draw a bar chart
 
