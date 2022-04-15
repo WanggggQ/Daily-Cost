@@ -13,3 +13,7 @@ It can view historical bills, show chart and percentage analysis of monthly inco
 7- Use SQLite database and do CRUD
 8- Define the drawable file, set the layout and control style
 9- Use the MPAndroidChart framework to draw a bar chart
+# 无序列表
+* 使用星号的无序列表
++ 使用加号的无序列表
+- 使用减号的无序列表
