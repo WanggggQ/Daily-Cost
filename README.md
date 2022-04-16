@@ -1,6 +1,6 @@
 # Daily-Cost
-A personal accounting application developed based on Android Studio.
-Developer：Wang Qing/Gachon University
+A personal accounting application developed based on Android Studio.  
+Developer：Wang Qing/Gachon University  
 Advising professor：HeeJoung Hwang/Email: hwanghj@gachon.ac.kr
 
 ### Project description: 
