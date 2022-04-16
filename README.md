@@ -1,5 +1,8 @@
 # Daily-Cost
 A personal accounting application developed based on Android Studio.
+Developer：Wang Qing/Gachon University
+Advising professor：HeeJoung Hwang/Email: hwanghj@gachon.ac.kr
+
 ### Project description: 
 A personal accounting tool developed based on the basic knowledge of Android, which includes recording the income and expenditure of the day, and calculating the total amount of income and expenditure of the day and the month.  
 It can view historical bills, show chart and percentage analysis of monthly income and expenditure, and search for all income and expenditure of a certain record of users... Basically, it can solve most problems of personal accounting, the interface is simple and beautiful, and very easy to use.
